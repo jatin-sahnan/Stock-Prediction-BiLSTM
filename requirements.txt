@@ -1,0 +1,13 @@
+matplotlib==3.5.2
+pandas==1.4.4
+pandas_datareader==0.10.0
+plotly==5.10.0
+scikit_learn==1.2.1
+seaborn==0.12.2
+statsmodels==0.13.2
+streamlit
+yfinance==0.1.74
+Keras==2.6.0
+numpy==1.19.5
+tensorflow==2.6.0
+typing-extensions~=3.7.4
